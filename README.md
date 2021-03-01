@@ -1,5 +1,10 @@
 ## Инструкция по работе
-Задание будут появлятся в репозитории https://github.com/Finuniversity/ADSPython.git
+___
+### Где брать задания
+
+Репозитории https://github.com/Finuniversity/ADSPython.git 1
+Папка Task 2
+Файль Task.md 3
 
 
 
